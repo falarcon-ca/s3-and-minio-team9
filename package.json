@@ -1,0 +1,23 @@
+{
+  "name": "aws-s3-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "serve": "http-server -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falarcon-ca/aws-w3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/falarcon-ca/aws-w3/issues"
+  },
+  "homepage": "https://github.com/falarcon-ca/aws-w3#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
